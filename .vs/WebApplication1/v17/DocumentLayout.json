@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -266,20 +270,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABYOAAAAAAAAAAAYwDgOAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYOAAAAAAAAAAAYwCUOAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-12-11T02:03:49.786Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footer.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\Footer.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Footer.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\Footer.css*",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Footer.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-17T09:10:47.063Z",
               "EditorCaption": ""
             },
             {
@@ -287,12 +304,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductViewModel.cs",
@@ -300,12 +313,11 @@
               "RelativeToolTip": "WebApplication1\\Models\\ProductViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:06:54.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T08:06:54.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LoginViewModel.cs",
@@ -313,12 +325,11 @@
               "RelativeToolTip": "WebApplication1\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:06:49.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T08:06:49.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "rgb_cpu_cooler.png - PNG [500x500, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png",
@@ -330,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_HeroSection.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_HeroSection.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_HeroSection.cshtml",
@@ -338,12 +349,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\_HeroSection.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T03:37:31.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T03:37:31.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "iphone-hero.jpg - Bitmap [1680x1194, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\iphone-hero.jpg",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\iphone-hero.jpg",
@@ -355,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_FlashSales.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_FlashSales.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_FlashSales.cshtml",
@@ -363,12 +373,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\_FlashSales.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T04:01:20.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T04:01:20.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ps5_image.png - PNG [720x568, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\ps5_image.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\ps5_image.png",
@@ -380,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "monitor.png - PNG [500x500, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\monitor.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\monitor.png",
@@ -392,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "satin_jacket.png - PNG [720x720, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\satin_jacket.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\satin_jacket.png",
@@ -404,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "perfume_image.png - PNG [720x720, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\perfume_image.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\perfume_image.png",
@@ -416,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "small_bookshelf.png - PNG [720x480, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\small_bookshelf.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\small_bookshelf.png",
@@ -428,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "soccer_cleats.png - PNG [720x720, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\soccer_cleats.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\soccer_cleats.png",
@@ -440,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "speakers_image.png - PNG [720x475, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\speakers_image.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\speakers_image.png",
@@ -452,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "team3.png - PNG [1762x3499, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team3.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team3.png",
@@ -464,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "the_north_coat.png - PNG [720x720, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\the_north_coat.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\the_north_coat.png",
@@ -476,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "team2.png - PNG [423x590, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team2.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team2.png",
@@ -488,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "team1.png - PNG [900x1520, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team1.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team1.png",
@@ -500,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "visa.png - PNG [4096x1256, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\visa.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\visa.png",
@@ -512,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -524,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Header.cshtml",
@@ -536,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Detail.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Detail.cshtml",
@@ -548,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\SignUp\\Index.cshtml",
@@ -560,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "about-hero.jpg - Bitmap [4096x2731, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\about-hero.jpg",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\about-hero.jpg",
@@ -572,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "_CheckOut.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_CheckOut.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_CheckOut.cshtml",
@@ -584,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "_ExploreProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
@@ -596,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "_Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Cart.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Cart.cshtml",
@@ -608,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_Wishlist.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Wishlist.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Wishlist.cshtml",
@@ -620,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Footer.cshtml",
@@ -632,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "_BestSellingProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
@@ -644,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "_BrowseByCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
@@ -656,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\SignUp\\Login.cshtml",
@@ -668,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "_About.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_About.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_About.cshtml",
@@ -680,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "gamepad-main.png - PNG [720x540, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-main.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\gamepad-main.png",
@@ -692,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "_Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Contact.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Contact.cshtml",
@@ -704,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "_MyAccount.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_MyAccount.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_MyAccount.cshtml",
@@ -716,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "_NewArrivals.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
@@ -728,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -740,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "_ServiceGuarantees.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
@@ -752,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "_TopHeader.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
@@ -764,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "_ProductCard.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
@@ -776,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
@@ -788,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "mastercard.png - PNG [1280x764, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\mastercard.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\mastercard.png",
@@ -800,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "jcb.png - PNG [3000x2000, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\jcb.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\jcb.png",
@@ -812,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "_Banner.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Banner.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Banner.cshtml",
@@ -824,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "google-play.png - PNG [412x122, 8 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\google-play.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\google-play.png",
@@ -836,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "gamepad-thumb4.png - PNG [720x720, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-thumb4.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\gamepad-thumb4.png",
@@ -848,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "music-speaker.png - PNG [1605x1605, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\music-speaker.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\music-speaker.png",
@@ -860,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "app-store.png - PNG [2560x759, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\app-store.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\app-store.png",
@@ -872,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "bKash.png - PNG [1200x800, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\bKash.png",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\bKash.png",
@@ -884,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Header.css",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\Header.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Header.css",
@@ -896,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "WebApplication1",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
@@ -907,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -919,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "signup_illustration.jpg - Bitmap [2000x1333, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\signup_illustration.jpg",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\signup_illustration.jpg",
@@ -931,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
@@ -943,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "FlashSale.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSale.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\FlashSale.cs",
@@ -955,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "FlashSaleProduct.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSaleProduct.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\FlashSaleProduct.cs",
@@ -967,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Category.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Category.cs",
@@ -979,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "SignUpController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SignUpController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SignUpController.cs",
@@ -991,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -1003,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "TmdtContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\TmdtContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\TmdtContext.cs",
@@ -1015,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Cart.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Cart.cs",
@@ -1027,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -1039,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "_NotFound.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NotFound.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_NotFound.cshtml",
