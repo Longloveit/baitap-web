@@ -1,0 +1,39 @@
+﻿.top-header {
+    width: 100%;
+    display: block;
+    background-color: #000;
+    color: #fff;
+    font-size: 13px;
+    padding: 8px 0;
+    border-bottom: 3px solid #7A3DD0;
+}
+
+    .top-header .top-header-content {
+        display: flex;
+        justify-content: center; /* đảm bảo phần giữa luôn nằm giữa */
+        align-items: center;
+        position: relative;
+    }
+
+.promo-text {
+    text-align: center;
+}
+
+.shop-now {
+    color: #fff !important;
+    font-weight: 600;
+    margin-left: 5px;
+    text-decoration: underline;
+}
+
+.language-select {
+    position: absolute;
+    right: 20px; /* đẩy English sát phải */
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+    .language-select i {
+        margin-left: 5px;
+    }

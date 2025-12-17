@@ -1,0 +1,122 @@
+﻿<section class="browse-cat-section">
+    <div class="container browse-cat-header">
+        <div>
+            <p class="featured-tag">Categories</p>
+            <h2 class="browse-cat-title">Browse By Category</h2>
+        </div>
+
+        <div class="browse-cat-arrows">
+            <button class="browse-cat-arrow-btn"><i class="fa fa-arrow-left"></i></button>
+            <button class="browse-cat-arrow-btn"><i class="fa fa-arrow-right"></i></button>
+        </div>
+    </div>
+
+    <div class="container browse-cat-grid">
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-tablet-alt"></i></div>
+            <div class="browse-cat-name">Phones</div>
+        </div>
+
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-desktop"></i></div>
+            <div class="browse-cat-name">Computers</div>
+        </div>
+
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-clock"></i></div>
+            <div class="browse-cat-name">SmartWatch</div>
+        </div>
+
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-camera"></i></div>
+            <div class="browse-cat-name">Camera</div>
+        </div>
+
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-headphones"></i></div>
+            <div class="browse-cat-name">HeadPhones</div>
+        </div>
+
+        <div class="browse-cat-card">
+            <div class="browse-cat-icon"><i class="fa fa-gamepad"></i></div>
+            <div class="browse-cat-name">Gaming</div>
+        </div>
+    </div>
+    <hr class="section-divider">
+</section>
+<style>
+    .browse-cat-section {
+        padding: 60px 0 40px 0;
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    /* header: Categories + Browse By Category + mũi tên */
+    .browse-cat-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 24px;
+        margin-bottom: 24px; /* KHOẢNG CÁCH với dãy card */
+    }
+
+    .browse-cat-title {
+        font-size: 32px;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .browse-cat-arrows {
+        display: flex;
+        gap: 10px;
+    }
+
+    .browse-cat-arrow-btn {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        border: 1px solid #e5e5e5;
+        background: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    /* GRID CATEGORY – tạo khoảng cách giữa các ô */
+    .browse-cat-grid {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 24px; /* KHOẢNG CÁCH giữa các card */
+        width: 100%;
+    }
+
+    /* CARD CATEGORY */
+    .browse-cat-card {
+        flex: 0 0 160px; /* độ rộng mỗi ô */
+        background: #fff;
+        border-radius: 8px;
+        border: 1px solid #e5e5e5;
+        padding: 28px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        flex: 1 1 0; /* mỗi thằng chiếm 1/6 chiều ngang */
+        max-width: 180px; /* nếu muốn giới hạn không quá to */
+    }
+
+    .browse-cat-icon {
+        font-size: 32px;
+        color: #111827;
+    }
+
+    .browse-cat-name {
+        font-size: 14px;
+        font-weight: 500;
+        color: #111827;
+    }
+
+    /* responsive */
+ 
+</style>

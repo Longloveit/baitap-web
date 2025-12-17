@@ -1,0 +1,103 @@
+﻿<section class="new-arrival-section">
+    <div class="container new-arrival-header">
+        <p class="featured-tag">Featured</p>
+        <h2>New Arrival</h2>
+    </div>
+
+    <div class="container arrival-grid">
+
+        <div class="arrival-item large-item ps5-item">
+            <div class="item-content">
+                <h3>PlayStation 5</h3>
+                <p>Black and White version of the PS5 coming out on sale.</p>
+                <a href="#" class="shop-now-link">Shop Now</a>
+            </div>
+        </div>
+
+        <div class="arrival-right-side">
+
+            <div class="arrival-item medium-item women-collection-item">
+                <div class="item-content">
+                    <h3>Women's Collections</h3>
+                    <p>Featured woman collections that give you another vibe.</p>
+                    <a href="#" class="shop-now-link">Shop Now</a>
+                </div>
+            </div>
+
+            <div class="small-items-row">
+                <div class="arrival-item small-item speakers-item">
+                    <div class="item-content">
+                        <h3>Speakers</h3>
+                        <p>Amazon wireless speakers</p>
+                        <a href="#" class="shop-now-link">Shop Now</a>
+                    </div>
+                </div>
+
+                <div class="arrival-item small-item perfume-item">
+                    <div class="item-content">
+                        <h3>Perfume</h3>
+                        <p>GUCCI INTENSE OUD EDP</p>
+                        <a href="#" class="shop-now-link">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+    .new-arrival-section {
+        padding: 60px 0 40px 0; /* khoảng trắng trên/dưới giống các section khác */
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    /* Header: Featured + New Arrival */
+    .new-arrival-header {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 24px; /* KHOẢNG CÁCH với phần grid bên dưới */
+    }
+
+        .new-arrival-header h2 {
+            font-size: 24px;
+            font-weight: 600;
+            margin: 0;
+        }
+
+    /* GRID tổng: bên trái PS5, bên phải 3 banner */
+    .arrival-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 2fr) minmax(0, 1.7fr);
+        gap: 24px; /* khoảng cách giữa cột trái và phải */
+        align-items: stretch;
+    }
+
+    .arrival-right-side {
+        display: flex;
+        flex-direction: column;
+        gap: 16px; /* khoảng cách giữa banner Women và 2 ô nhỏ */
+    }
+
+    .small-items-row {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px; /* khoảng cách giữa Speakers & Perfume */
+    }
+
+    /* card chung (cho có padding, không dính sát mép) */
+    .arrival-item {
+        position: relative;
+        border-radius: 12px;
+        overflow: hidden;
+    }
+
+        .arrival-item .item-content {
+            position: absolute;
+            left: 24px;
+            bottom: 28px;
+            max-width: 260px;
+            color: #fff;
+        }
+
+   
+</style>

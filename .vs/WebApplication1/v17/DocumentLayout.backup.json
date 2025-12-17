@@ -1,0 +1,1057 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_flashsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_flashsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\rgb_cpu_cooler.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\rgb_cpu_cooler.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\iphone-hero.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\iphone-hero.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\monitor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\monitor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\perfume_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\perfume_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\ps5_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\ps5_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\satin_jacket.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\satin_jacket.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\small_bookshelf.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\small_bookshelf.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\soccer_cleats.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\soccer_cleats.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\speakers_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\speakers_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\team1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\team1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\team2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\team2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\team3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\team3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\the_north_coat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\the_north_coat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\visa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\visa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\about-hero.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\about-hero.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_exploreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_exploreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_bestsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_bestsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_browsebycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_browsebycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\signup\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\signup\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\gamepad-main.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\gamepad-main.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_newarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_newarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_serviceguarantees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_serviceguarantees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\music-speaker.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\music-speaker.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\mastercard.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\mastercard.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\jcb.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\jcb.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\google-play.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\google-play.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\gamepad-thumb4.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\gamepad-thumb4.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\app-store.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\app-store.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\bkash.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\bkash.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\images\\signup_illustration.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\signup_illustration.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\wwwroot\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\data\\flashsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\flashsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\data\\flashsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\flashsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\data\\tmdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\tmdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274B2E50-5589-4C89-999B-7AED965AD374}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABYOAAAAAAAAAAAYwDgOAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-11T02:03:49.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:06:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:06:49.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rgb_cpu_cooler.png - PNG [500x500, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png - PNG [500x500, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\rgb_cpu_cooler.png - PNG [500x500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:58.553Z",
+              "EditorCaption": " - PNG [500x500, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_HeroSection.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_HeroSection.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_HeroSection.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_HeroSection.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_HeroSection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "iphone-hero.jpg - Bitmap [1680x1194, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\iphone-hero.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\iphone-hero.jpg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\iphone-hero.jpg - Bitmap [1680x1194, 24 bit, JPG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\iphone-hero.jpg - Bitmap [1680x1194, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:13:58.974Z",
+              "EditorCaption": " - Bitmap [1680x1194, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_FlashSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_FlashSales.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_FlashSales.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_FlashSales.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_FlashSales.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T04:01:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ps5_image.png - PNG [720x568, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\ps5_image.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\ps5_image.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\ps5_image.png - PNG [720x568, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\ps5_image.png - PNG [720x568, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:14:05.238Z",
+              "EditorCaption": " - PNG [720x568, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "monitor.png - PNG [500x500, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\monitor.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\monitor.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\monitor.png - PNG [500x500, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\monitor.png - PNG [500x500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:59:07.047Z",
+              "EditorCaption": " - PNG [500x500, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "satin_jacket.png - PNG [720x720, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\satin_jacket.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\satin_jacket.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\satin_jacket.png - PNG [720x720, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\satin_jacket.png - PNG [720x720, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:59.484Z",
+              "EditorCaption": " - PNG [720x720, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "perfume_image.png - PNG [720x720, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\perfume_image.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\perfume_image.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\perfume_image.png - PNG [720x720, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\perfume_image.png - PNG [720x720, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:14:04.502Z",
+              "EditorCaption": " - PNG [720x720, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "small_bookshelf.png - PNG [720x480, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\small_bookshelf.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\small_bookshelf.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\small_bookshelf.png - PNG [720x480, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\small_bookshelf.png - PNG [720x480, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:54.906Z",
+              "EditorCaption": " - PNG [720x480, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "soccer_cleats.png - PNG [720x720, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\soccer_cleats.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\soccer_cleats.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\soccer_cleats.png - PNG [720x720, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\soccer_cleats.png - PNG [720x720, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:54.258Z",
+              "EditorCaption": " - PNG [720x720, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "speakers_image.png - PNG [720x475, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\speakers_image.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\speakers_image.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\speakers_image.png - PNG [720x475, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\speakers_image.png - PNG [720x475, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:53.513Z",
+              "EditorCaption": " - PNG [720x475, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "team3.png - PNG [1762x3499, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team3.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team3.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team3.png - PNG [1762x3499, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\team3.png - PNG [1762x3499, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:51.222Z",
+              "EditorCaption": " - PNG [1762x3499, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "the_north_coat.png - PNG [720x720, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\the_north_coat.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\the_north_coat.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\the_north_coat.png - PNG [720x720, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\the_north_coat.png - PNG [720x720, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:50.192Z",
+              "EditorCaption": " - PNG [720x720, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "team2.png - PNG [423x590, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team2.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team2.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team2.png - PNG [423x590, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\team2.png - PNG [423x590, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-16T02:51:36.014Z",
+              "EditorCaption": " - PNG [423x590, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "team1.png - PNG [900x1520, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team1.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\team1.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\team1.png - PNG [900x1520, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\team1.png - PNG [900x1520, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-16T02:51:36.801Z",
+              "EditorCaption": " - PNG [900x1520, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "visa.png - PNG [4096x1256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\visa.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\visa.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\visa.png - PNG [4096x1256, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\visa.png - PNG [4096x1256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-17T01:58:49.19Z",
+              "EditorCaption": " - PNG [4096x1256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:10:06.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T03:37:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Detail.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_Detail.cshtml",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAAOAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:08:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\SignUp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\SignUp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T02:36:27.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "about-hero.jpg - Bitmap [4096x2731, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\about-hero.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\about-hero.jpg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\about-hero.jpg - Bitmap [4096x2731, 24 bit, JPG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\about-hero.jpg - Bitmap [4096x2731, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:13:58.163Z",
+              "EditorCaption": " - Bitmap [4096x2731, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_CheckOut.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_CheckOut.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T02:58:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ExploreProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_ExploreProducts.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T02:48:55.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Cart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Cart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Cart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_Cart.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T02:43:06.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Wishlist.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Wishlist.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Wishlist.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Wishlist.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_Wishlist.cshtml",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAmwMwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T02:32:55.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T07:38:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_BestSellingProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_BestSellingProducts.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:26.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_BrowseByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_BrowseByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\SignUp\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SignUp\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\SignUp\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T01:58:51.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_About.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T01:44:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "gamepad-main.png - PNG [720x540, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-main.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\gamepad-main.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-main.png - PNG [720x540, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\gamepad-main.png - PNG [720x540, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-16T06:44:53.319Z",
+              "EditorCaption": " - PNG [720x540, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Contact.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:29.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_MyAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_MyAccount.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_MyAccount.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_MyAccount.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_MyAccount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_NewArrivals.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_NewArrivals.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T07:00:33.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T08:06:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ServiceGuarantees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ServiceGuarantees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T07:41:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_TopHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_TopHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T08:06:16.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ProductCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ProductCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T08:06:18.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T08:06:13.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "mastercard.png - PNG [1280x764, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\mastercard.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\mastercard.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\mastercard.png - PNG [1280x764, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\mastercard.png - PNG [1280x764, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:14:03.011Z",
+              "EditorCaption": " - PNG [1280x764, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "jcb.png - PNG [3000x2000, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\jcb.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\jcb.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\jcb.png - PNG [3000x2000, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\jcb.png - PNG [3000x2000, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:14:02.299Z",
+              "EditorCaption": " - PNG [3000x2000, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_Banner.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_Banner.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_Banner.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "google-play.png - PNG [412x122, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\google-play.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\google-play.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\google-play.png - PNG [412x122, 8 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\google-play.png - PNG [412x122, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:14:00.404Z",
+              "EditorCaption": " - PNG [412x122, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "gamepad-thumb4.png - PNG [720x720, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-thumb4.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\gamepad-thumb4.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\gamepad-thumb4.png - PNG [720x720, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\gamepad-thumb4.png - PNG [720x720, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:13:59.712Z",
+              "EditorCaption": " - PNG [720x720, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "music-speaker.png - PNG [1605x1605, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\music-speaker.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\music-speaker.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\music-speaker.png - PNG [1605x1605, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\music-speaker.png - PNG [1605x1605, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T04:38:53.246Z",
+              "EditorCaption": " - PNG [1605x1605, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "app-store.png - PNG [2560x759, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\app-store.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\app-store.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\app-store.png - PNG [2560x759, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\app-store.png - PNG [2560x759, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:13:57.454Z",
+              "EditorCaption": " - PNG [2560x759, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "bKash.png - PNG [1200x800, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\bKash.png",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\bKash.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\bKash.png - PNG [1200x800, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\bKash.png - PNG [1200x800, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T07:13:56.901Z",
+              "EditorCaption": " - PNG [1200x800, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\Header.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Header.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\Header.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Header.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAnwHsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-15T02:30:24.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T07:28:03.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T06:59:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "signup_illustration.jpg - Bitmap [2000x1333, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\signup_illustration.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\signup_illustration.jpg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\signup_illustration.jpg - Bitmap [2000x1333, 24 bit, JPG]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\signup_illustration.jpg - Bitmap [2000x1333, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T04:40:56.04Z",
+              "EditorCaption": " - Bitmap [2000x1333, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:58:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FlashSale.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSale.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\FlashSale.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSale.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\FlashSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:44:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FlashSaleProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSaleProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\FlashSaleProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\FlashSaleProduct.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\FlashSaleProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:44:30.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Category.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:43:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SignUpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:36:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:32:20.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TmdtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\TmdtContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\TmdtContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\TmdtContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\TmdtContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:43:49.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Cart.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Cart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:54:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T07:08:56.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NotFound.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_NotFound.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_NotFound.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T03:37:33.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+﻿/* --- Tổng quát cho Footer --- */
+.site-footer {
+    background-color: #000000; /* Nền đen */
+    color: #ffffff; /* Chữ trắng */
+    padding: 60px 0 20px 0; /* Khoảng đệm trên/dưới */
+    font-family: sans-serif;
+}
+
+    .site-footer a {
+        color: #ffffff; /* Màu link trắng */
+        text-decoration: none;
+        transition: color 0.3s;
+    }
+
+        .site-footer a:hover {
+            color: #dbdbdb; /* Hover nhẹ */
+        }
+
+.container {
+    width: 90%; /* Chiều rộng container */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* --- Bố cục cột --- */
+.footer-row {
+    display: flex;
+    justify-content: space-between; /* Giãn cách đều các cột */
+    flex-wrap: wrap; /* Cho phép xuống dòng trên màn hình nhỏ */
+    margin-bottom: 40px;
+}
+
+.footer-col {
+    width: 18%; /* Thiết lập chiều rộng cho 5 cột (100% / 5 = 20%, để lại 2% cho giãn cách) */
+    padding: 0 10px;
+    margin-bottom: 30px;
+}
+
+.col-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* --- Cột Exclusive --- */
+.exclusive-col .col-subtitle {
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+.subscribe-form {
+    display: flex;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+    .subscribe-form input {
+        flex-grow: 1;
+        padding: 10px;
+        background: transparent;
+        border: none;
+        color: #ffffff;
+        outline: none;
+    }
+
+    .subscribe-form button {
+        background: transparent;
+        border: none;
+        color: #ffffff;
+        padding: 0 15px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+/* --- Các cột Link (Account, Quick Link) --- */
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .footer-links li {
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+
+/* --- Cột Download App --- */
+.app-promo {
+    color: #a0a0a0; /* Chữ xám */
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.app-download {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.qr-code {
+    border: 1px solid #ffffff; /* Viền QR Code */
+    padding: 5px;
+    background-color: #ffffff;
+}
+
+.qr-image {
+    width: 60px; /* Kích thước ảnh QR */
+    height: 60px;
+    display: block;
+}
+
+.app-stores a img {
+    width: 100px; /* Chiều rộng ảnh Google Play/App Store */
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.social-links {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icon {
+    font-size: 20px;
+}
+
+/* --- Copyright --- */
+.footer-bottom {
+    border-top: 1px solid #333333; /* Đường kẻ phân cách */
+    padding-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #a0a0a0;
+}
+
+/* --- Responsive (Điều chỉnh trên màn hình nhỏ) --- */
+@media (max-width: 768px) {
+    .footer-row {
+        justify-content: flex-start; /* Sắp xếp từ trái sang */
+    }
+
+    .footer-col {
+        width: 45%; /* 2 cột trên 1 hàng */
+    }
+}
+
+@media (max-width: 480px) {
+    .footer-col {
+        width: 100%; /* 1 cột trên 1 hàng */
+        padding: 0;
+    }
+}

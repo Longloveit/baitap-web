@@ -1,0 +1,239 @@
+﻿<header class="main-header">
+    <div class="header-container">
+
+        <div class="logo">Exclusive</div>
+
+        <nav class="nav-menu">
+            <a href="@Url.Action("Index","Home")">Home</a>
+            <a href="@Url.Action("_Contact","Home")">Contact</a>
+            <a href="@Url.Action("_About","Home")">About</a>
+            <a href="@Url.Action("Index","SignUp")">Sign Up</a>
+        </nav>
+
+        <div class="header-right">
+            <div class="search-box">
+                <input type="text" placeholder="What are you looking for?">
+                <i class="fa fa-search"></i>
+            </div>
+
+            @if (ViewData["HideHeaderIconss"] == null)
+            {
+                <div class="user-action-icons">
+                    <a href="@Url.Action("_Wishlist", "Home")" class="wishlist-icon">
+                        <i class="far fa-heart"></i>
+                    </a>
+
+                    <a href="@Url.Action("_Cart","Home")" class="cart-icon"><i class="fas fa-shopping-cart"></i></a>
+
+                    
+                </div>
+            }
+        </div>
+        <div class="user-profile-menu">
+
+            <a href="#" class="profile-icon" id="profileToggle">
+                <i class="fas fa-user-circle"></i>
+            </a>
+
+            <div class="dropdown-menu-content" id="profileDropdown">
+                <a href=" @Url.Action("_MyAccount", "Home")" class="menu-item">
+                    <i class="fas fa-user"></i> Manage My Account
+                </a>
+                <a href="@Url.Action("_Cart","Home")" class="menu-item">
+                    <i class="fas fa-shopping-bag"></i> My Order
+                </a>
+                <a href="#" class="menu-item">
+                    <i class="fas fa-times-circle"></i> My Cancellations
+                </a>
+                <a href="#" class="menu-item">
+                    <i class="fas fa-star"></i> My Reviews
+                </a>
+                <a href="@Url.Action("Login","SignUp")" class="menu-item logout">
+                    <i class="fas fa-sign-out-alt"></i> Logout
+                </a>
+            </div>
+        </div>
+
+    </div>
+</header>
+<style>
+/* HEADER WRAP */
+.main-header {
+    border-bottom: 1px solid #e5e5e5;
+    background: #fff;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+}
+
+/* LOGO */
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+/* NAV MENU */
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;                 /* để menu nằm giữa, đẩy search sang phải */
+    gap: 32px;
+}
+
+.nav-menu a {
+    position: relative;
+    font-size: 14px;
+    font-weight: 500;
+    color: #1f2933;
+    text-decoration: none;
+    padding-bottom: 4px;
+    transition: color 0.2s ease;
+}
+
+/* gạch chân khi hover / active */
+.nav-menu a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background: #111;
+    border-radius: 999px;
+    transition: width 0.2s ease;
+}
+
+.nav-menu a:hover,
+.nav-menu a.active {
+    color: #000;
+}
+
+.nav-menu a:hover::after,
+.nav-menu a.active::after {
+    width: 100%;
+}
+
+/* BÊN PHẢI: SEARCH + ICONS */
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+/* ô search */
+.search-box {
+    display: flex;
+    align-items: center;
+    background: #f5f5f5;
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+
+.search-box input {
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size: 13px;
+    width: 230px;
+}
+
+.search-box i {
+    font-size: 14px;
+    color: #6b7280;
+    margin-left: 8px;
+}
+
+/* icons tim + giỏ */
+.user-action-icons {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.user-action-icons a {
+    color: #111;
+    font-size: 18px;
+    line-height: 1;
+    text-decoration: none;
+    transition: color 0.2s ease, transform 0.15s ease;
+}
+
+.user-action-icons a:hover {
+    color: #DB4444;
+    transform: translateY(-1px);
+}
+
+/* PROFILE + DROPDOWN */
+.user-profile-menu {
+    position: relative;
+    margin-left: 6px;
+}
+
+/* avatar tròn đỏ */
+.profile-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 999px;
+    background: #DB4444;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/* menu xổ xuống */
+.dropdown-menu-content {
+    position: absolute;
+    right: 0;
+    top: 120%;
+    width: 220px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+    padding: 6px 0;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(4px);
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    z-index: 1000;
+}
+
+.dropdown-menu-content.show {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+.dropdown-menu-content .menu-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    font-size: 13px;
+    color: #111827;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.dropdown-menu-content .menu-item i {
+    width: 16px;
+}
+
+.dropdown-menu-content .menu-item:hover {
+    background: #f3f4f6;
+}
+
+.dropdown-menu-content .menu-item.logout {
+    color: #DC2626;
+}
+</style>

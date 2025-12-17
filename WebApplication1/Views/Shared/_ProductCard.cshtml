@@ -1,0 +1,44 @@
+﻿@model WebApplication1.Models.ProductViewModel
+@* 💥 Đã thay đổi từ dynamic sang Model cụ thể * @
+
+<div class="product-card">
+    <div class="product-image-box">
+
+        @* KHÔNG CẦN KIỂM TRA TỒN TẠI NỮA: Cú pháp Razor bây giờ an toàn! *@
+@if (!string.IsNullOrEmpty(Model.Badge))
+{
+    <span class="product-badge @(Model.Badge.ToLower().Contains("new") ? "badge-new" : "badge-sale")">
+        @Model.Badge
+    </span>
+}
+
+<button class="action-btn action-delete"><i class="fas fa-trash-alt"></i></button>
+
+<button class="action-btn action-quick-view"><i class="far fa-eye"></i></button>
+
+@* Sử dụng Model.ImageUrl (Giả định bạn đã sửa Model theo khuyến nghị trước) *@
+<img src="@(Model.ImageUrl ?? "/images/product-placeholder.png")" alt="@Model.Name" class="img-fluid product-image" />
+
+<button class="btn btn-add-to-cart">Add To Cart</button>
+    </div>
+
+<div class="product-info">
+    <h3 class="product-name">@Model.Name</h3>
+    <div class="product-prices">
+        <span class="price-current">$@Model.Price</span>
+        @if (Model.OldPrice > 0) @* Giả định bạn dùng decimal/int và OldPrice > 0 *@
+        {
+            <span class="price-old">$@Model.OldPrice</span>
+        }
+    </div>
+    <div class="product-rating">
+        @* Ví dụ 4 sao rưỡi *@
+        <i class="fas fa-star text-warning"></i>
+        <i class="fas fa-star text-warning"></i>
+        <i class="fas fa-star text-warning"></i>
+        <i class="fas fa-star text-warning"></i>
+        <i class="fas fa-star-half-alt text-warning"></i>
+        <span class="rating-count">(66)</span>
+    </div>
+</div>
+</div>

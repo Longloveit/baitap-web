@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "404 Error";
+    // Nếu bạn đang dùng ViewData này để ẩn 3 logo service ở layout:
+    ViewData["HideHeaderIcons"] = true;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="error-page py-5">
+    <div class="container">
+
+        <!-- Breadcrumb -->
+        <div class="error-breadcrumb mb-5">
+            <a href="@Url.Action("Index", "Home")">Home</a>
+            <span>/</span>
+            <span>404 Error</span>
+        </div>
+
+        <!-- Nội dung 404 -->
+        <div class="text-center error-content">
+            <h1 class="error-title">404 Not Found</h1>
+            <p class="error-subtitle">
+                Your visited page not found. You may go home page.
+            </p>
+
+            <a href="@Url.Action("Index", "Home")" class="btn error-back-btn">
+                Back to home page
+            </a>
+        </div>
+
+    </div>
+</div>
+@section BodyClass {
+    <script>
+        document.body.classList.add('page-signup');
+    </script>
+}

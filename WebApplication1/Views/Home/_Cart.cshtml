@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["HideHeaderIcons"] = true;
+}
+
+<div class="cart-container">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="@Url.Action("Index", "Home")">Home</a> /
+        <span>Cart</span>
+    </div>
+
+    <!-- Cart Table -->
+    <table class="cart-table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td class="product-info">
+                    <img src="/images/monitor.png" alt="LCD Monitor" />
+                    <span>LCD Monitor</span>
+                </td>
+                <td>$650</td>
+                <td>
+                    <select>
+                        <option>01</option>
+                        <option>02</option>
+                        <option>03</option>
+                    </select>
+                </td>
+                <td>$650</td>
+            </tr>
+
+            <tr>
+                <td class="product-info">
+                    <img src="/images/g92.png" alt="Gamepad" />
+                    <span>Hi Gamepad</span>
+                </td>
+                <td>$550</td>
+                <td>
+                    <select>
+                        <option>01</option>
+                        <option selected>02</option>
+                        <option>03</option>
+                    </select>
+                </td>
+                <td>$1100</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="cart-actions">
+        <a href="@Url.Action("Index", "Home")" class="btn-outline">Return To Shop</a>
+        <button class="btn-outline">Update Cart</button>
+    </div>
+
+    <div class="coupon-checkout">
+        <div class="coupon-box">
+            <input type="text" placeholder="Coupon Code" />
+            <button class="btn-red">Apply Coupon</button>
+        </div>
+
+        <div class="cart-total">
+            <h3>Cart Total</h3>
+            <p><span>Subtotal:</span> <strong>$1750</strong></p>
+            <p><span>Shipping:</span> Free</p>
+            <p><span>Total:</span> <strong>$1750</strong></p>
+            <a asp-controller="Home"
+               asp-action="_CheckOut"
+               class="btn  btn-red full">
+                Proceed to checkout
+            </a>
+          
+        </div>
+    </div>
+</div>
+@section BodyClass {
+    <script>
+        document.body.classList.add('page-signup');
+    </script>
+}

@@ -1,0 +1,173 @@
+﻿.main-header {
+    background: #fff;
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    display: block;
+   
+}
+
+.top-header,
+.main-header {
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 10;
+}
+
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.nav-menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+}
+
+    .nav-menu a:hover,
+    .nav-menu a.active {
+        text-decoration: underline;
+    }
+
+.search-box {
+    /* Đảm bảo khối này cũng được căn chỉnh hợp lý */
+    display: flex;
+    align-items: center;
+    /* Đặt chiều cao hợp lý cho cả khối */
+    height: 30px; /* Thử một chiều cao cố định, ví dụ: 40px */
+}
+
+    .search-box input {
+        /* Quan trọng: Loại bỏ padding dọc mặc định của input để kiểm soát chính xác hơn */
+        padding-top: 0;
+        padding-bottom: 0;
+        /* Đảm bảo chiều cao input bằng chiều cao search-box */
+        height: 100%;
+        line-height: 40px; /* Đặt line-height bằng chiều cao để căn giữa văn bản */
+    }
+
+.header-right i {
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.header-right {
+    display: flex;
+    align-items: center; /* Đảm bảo căn giữa */
+    /* Nếu có margin/padding dọc mặc định, hãy loại bỏ nó */
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 100%; /* Đảm bảo nó chiếm đủ chiều cao của Header */
+}
+
+    /* Đảm bảo thanh tìm kiếm không bị quá rộng */
+    .header-right .search-box {
+        
+        position: relative;
+        /* Giới hạn kích thước tối đa của thanh tìm kiếm nếu cần */
+        max-width: 300px;
+    }
+
+    /* Đảm bảo Icons được hiển thị theo hàng ngang và không bị tràn */
+    .header-right .user-action-icons {
+        display: flex;
+        gap: 10px; /* Khoảng cách giữa Trái tim và Giỏ hàng */
+    }
+.user-action-icons {
+    display: flex;
+    align-items: center;
+    height: 40px; /* Đặt chiều cao bằng với .search-box */
+    gap: 10px;
+    margin-left:36px;
+
+}
+    .user-action-icons a,
+    .user-action-icons i {
+        /* Loại bỏ tất cả khoảng cách mặc định */
+        margin: 0;
+        padding: 0;
+        /* Đặt line-height bằng 1 để loại bỏ khoảng trống thừa bên trên và dưới */
+        line-height: 1;
+        /* Đảm bảo icon có kích thước phù hợp */
+        font-size: 18px;
+        color: #000000; /* Màu Đen */
+    }
+/* --- CÁC ICON HÀNH ĐỘNG --- */
+.user-action-icons {
+    /* Đảm bảo khối này có vị trí tương đối để các menu con định vị tương đối theo nó */
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Biểu tượng Profile (Icon Người dùng) */
+.user-profile-menu {
+    position: relative; /* Quan trọng: Đặt vị trí tương đối cho khối cha */
+}
+
+.profile-icon i {
+    /* Màu đỏ nổi bật cho icon Profile */
+    font-size: 24px;
+}
+
+/* --- MENU DROPDOWN --- */
+.dropdown-menu-content {
+    /* Quan trọng: Vị trí tuyệt đối để menu nổi lên trên nội dung khác */
+    position: absolute;
+    top: 100%; /* Đặt menu ngay dưới icon */
+    right: 0; /* Căn menu về góc phải của icon */
+    z-index: 1000; /* Đảm bảo menu nằm trên các thành phần khác */
+    /* Tạo kiểu cho menu */
+    min-width: 250px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Tạo bóng đổ */
+    padding: 10px 0;
+    /* 💥 Ẩn menu mặc định */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s, visibility 0.2s; /* Thêm hiệu ứng chuyển tiếp */
+}
+
+    /* Hiển thị menu khi có class 'show' */
+    .dropdown-menu-content.show {
+        opacity: 1;
+        visibility: visible;
+    }
+
+/* Các mục trong Menu */
+.menu-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background-color 0.1s;
+}
+
+    .menu-item:hover {
+        background-color: #f0f0f0;
+    }
+
+    .menu-item i {
+        margin-right: 10px;
+        color: #555; /* Màu icon trong menu */
+        font-size: 16px;
+    }
+   

@@ -1,0 +1,603 @@
+﻿<head>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+          referrerpolicy="no-referrer" />
+
+</head>
+
+<section class="flash-sales-sectionn">
+    <!-- HEADER -->
+    <div class="container flash-sales-header">
+        <div class="sales-title-wrapper">
+            <div class="sales-heading">
+                <p class="featured-tag today-tag">Today's</p>
+                <h2 class="sales-main-title">Flash Sales</h2>
+            </div>
+
+            <div class="countdown-timer" id="flash-countdown" data-end="2025-12-31T23:59:59">
+                <div class="timer-unit">
+                    <span class="label">Days</span>
+                    <span class="value js-days">03</span>
+                </div>
+                <span class="separator">:</span>
+                <div class="timer-unit">
+                    <span class="label">Hours</span>
+                    <span class="value js-hours">23</span>
+                </div>
+                <span class="separator">:</span>
+                <div class="timer-unit">
+                    <span class="label">Minutes</span>
+                    <span class="value js-mins">19</span>
+                </div>
+                <span class="separator">:</span>
+                <div class="timer-unit">
+                    <span class="label">Seconds</span>
+                    <span class="value js-secs">56</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="navigation-arrows">
+            <button type="button" class="arrow-btn prev-arrow" aria-label="Previous Sales">
+                <i class="fa fa-arrow-left"></i>
+            </button>
+            <button type="button" class="arrow-btn next-arrow" aria-label="Next Sales">
+                <i class="fa fa-arrow-right"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- PRODUCTS -->
+    <div class="container sales-viewport">
+        <div class="sales-track">
+            <!-- CARD 1 -->
+            <article class="product-card">
+                <div class="card-image-container">
+                    <a href="@Url.Action("_Detail","Home")">
+                    <span class="discount-tag">-40%</span>
+
+                    <div class="card-icons">
+                        <button type="button" class="icon-btn" aria-label="Add to Wishlist">
+                            <i class="fa-regular fa-heart"></i>
+                          
+                        </button>
+
+                        <button type="button" class="icon-btn" aria-label="View Details">
+                            <i class="fa-regular fa-eye"></i>
+                        </button>
+                    </div>
+                    </a>
+
+
+                    <a class="thumb" href="#">
+                        <img src="~/images/g92.png" alt="HAVIT HV-G92 Gamepad" class="product-image">
+                    </a>
+                </div>
+
+                <h3 class="product-title">HAVIT HV-G92 Gamepad</h3>
+
+                <div class="product-details">
+                    <div class="price-row">
+                        <span class="new-price">$120</span>
+                        <span class="old-price">$160</span>
+                    </div>
+
+                    <div class="rating-and-reviews">
+                        <span class="stars" style="--percent:80%"></span>
+                        <span class="reviews">(88)</span>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CARD 2 (Add To Cart bar) -->
+            <article class="product-card">
+                <div class="card-image-container">
+                    <span class="discount-tag">-35%</span>
+                    <div class="card-icons">
+                        <button type="button" class="icon-btn" aria-label="Add to Wishlist">
+                            <i class="fa-regular fa-heart"></i>
+                        </button>
+
+                        <button type="button" class="icon-btn" aria-label="View Details">
+                            <i class="fa-regular fa-eye"></i>
+                        </button>
+                    </div>
+
+
+                    <a class="thumb" href="#">
+                        <img src="~/images/ak900.png" alt="AK-900 Wired Keyboard" class="product-image">
+                    </a>
+
+                    <button type="button" class="add-to-cart-btn">Add To Cart</button>
+                </div>
+
+                <h3 class="product-title">AK-900 Wired Keyboard</h3>
+
+                <div class="product-details">
+                    <div class="price-row">
+                        <span class="new-price">$960</span>
+                        <span class="old-price">$1160</span>
+                    </div>
+
+                    <div class="rating-and-reviews">
+                        <span class="stars" style="--percent:80%"></span>
+                        <span class="reviews">(75)</span>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CARD 3 -->
+            <article class="product-card">
+                <div class="card-image-container">
+                    <span class="discount-tag">-30%</span>
+                    <div class="card-icons">
+                        <button type="button" class="icon-btn" aria-label="Add to Wishlist">
+                            <i class="fa-regular fa-heart"></i>
+                        </button>
+
+                        <button type="button" class="icon-btn" aria-label="View Details">
+                            <i class="fa-regular fa-eye"></i>
+                        </button>
+                    </div>
+
+
+                    <a class="thumb" href="#">
+                        <img src="~/images/monitor.png" alt="IPS LCD Gaming Monitor" class="product-image">
+                    </a>
+                </div>
+
+                <h3 class="product-title">IPS LCD Gaming Monitor</h3>
+
+                <div class="product-details">
+                    <div class="price-row">
+                        <span class="new-price">$370</span>
+                        <span class="old-price">$400</span>
+                    </div>
+
+                    <div class="rating-and-reviews">
+                        <span class="stars" style="--percent:100%"></span>
+                        <span class="reviews">(99)</span>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CARD 4 -->
+            <article class="product-card">
+                <div class="card-image-container">
+                    <span class="discount-tag">-25%</span>
+                    <div class="card-icons">
+                        <button type="button" class="icon-btn" aria-label="Add to Wishlist">
+                            <i class="fa-regular fa-heart"></i>
+                        </button>
+
+                        <button type="button" class="icon-btn" aria-label="View Details">
+                            <i class="fa-regular fa-eye"></i>
+                        </button>
+                    </div>
+
+
+                    <a class="thumb" href="#">
+                        <img src="~/images/chair.png" alt="S-Series Comfort Chair" class="product-image">
+                    </a>
+                </div>
+
+                <h3 class="product-title">S-Series Comfort Chair</h3>
+
+                <div class="product-details">
+                    <div class="price-row">
+                        <span class="new-price">$375</span>
+                        <span class="old-price">$400</span>
+                    </div>
+
+                    <div class="rating-and-reviews">
+                        <span class="stars" style="--percent:80%"></span>
+                        <span class="reviews">(99)</span>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CARD 5 -->
+            <article class="product-card">
+                <div class="card-image-container">
+                    <span class="discount-tag">-25%</span>
+
+                    <div class="card-icons">
+                        <button type="button" class="icon-btn" aria-label="Add to Wishlist">
+                            <i class="fa-regular fa-heart"></i>
+                        </button>
+
+                        <button type="button" class="icon-btn" aria-label="View Details">
+                            <i class="fa-regular fa-eye"></i>
+                        </button>
+                    </div>
+
+
+                    <a class="thumb" href="#">
+                        <img src="~/images/chair.png" alt="S-Series Comfort Chair" class="product-image">
+                    </a>
+                </div>
+
+                <h3 class="product-title">S-Series Comfort Chair</h3>
+
+                <div class="product-details">
+                    <div class="price-row">
+                        <span class="new-price">$375</span>
+                        <span class="old-price">$400</span>
+                    </div>
+
+                    <div class="rating-and-reviews">
+                        <span class="stars" style="--percent:80%"></span>
+                        <span class="reviews">(99)</span>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+
+    <!-- VIEW ALL -->
+    <div class="container view-all-btn-wrapper">
+        <button class="view-all-products-btn">View All Products</button>
+    </div>
+    <hr class="section-divider">
+</section>
+<style>
+/* =========================
+   FLASH SALES like screenshot
+   ========================= */
+.flash-sales-sectionn{
+  padding: 22px 0 44px;
+}
+
+/* Header */
+.flash-sales-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:24px;
+  margin-bottom:18px;
+}
+
+    .featured-tag {
+        color: #ff0000; /* Màu đỏ */
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        border-left: 10px solid #ff0000;
+        padding-left: 10px;
+    }
+
+.sales-title-wrapper{
+  display:flex;
+  align-items:flex-start;
+  gap:34px;
+  flex-wrap:wrap;
+}
+
+.sales-heading{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+/* .today-tag{
+  position:relative;
+  margin:0;
+  padding-left:14px;
+  font-size:13px;
+  font-weight:600;
+  color:#DB4444;
+  line-height:1;
+} */
+
+
+.sales-main-title{
+  margin:0;
+  font-size:40px;
+  font-weight:700;
+  line-height:1.05;
+}
+
+/* Countdown */
+.countdown-timer{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  padding-top:2px;
+}
+
+.timer-unit{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  min-width:54px;
+}
+
+.timer-unit .label{
+    
+  font-size:12px;
+  color:#8B8B8B;
+  margin-bottom:6px;
+  line-height:1;
+}
+
+.timer-unit .value{
+  font-size:28px;
+  font-weight:800;
+  color:#111;
+  line-height:1;
+}
+
+.separator{
+  font-size:26px;
+  font-weight:800;
+  color:#DB4444;
+  line-height:1;
+  padding: 0 2px;
+  transform: translateY(16px);
+}
+
+/* Arrow buttons */
+.navigation-arrows{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  padding-top:4px;
+}
+
+.arrow-btn{
+  width:40px;
+  height:40px;
+  border-radius:999px;
+  border:0;
+  background:#F5F5F5;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  transition: background .15s ease, transform .15s ease;
+}
+.arrow-btn:hover{ background:#EFEFEF; transform: translateY(-1px); }
+.arrow-btn i{ font-size:14px; color:#111; }
+
+/* =========================
+   Product row (horizontal)
+   ========================= */
+.sales-viewport{
+  overflow:hidden; /* giống ảnh (không lộ scrollbar) */
+}
+
+.sales-track{
+  display:flex;
+  gap:22px;
+  overflow-x:auto;
+  padding: 6px 0 10px;
+  scroll-snap-type:x mandatory;
+  scroll-behavior:smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ẩn scrollbar */
+.sales-track::-webkit-scrollbar{ height:0; }
+.sales-track{ scrollbar-width:none; }
+.sales-track::-webkit-scrollbar-thumb{ background:transparent; }
+
+/* Card: không viền, giống ảnh */
+.product-card{
+  flex: 0 0 235px;
+  width:235px;
+  display:flex;
+  flex-direction:column;
+}
+
+/* Image box */
+.card-image-container{
+  position:relative;
+  height:250px;
+  background:#F5F5F5;
+  border-radius:10px;
+  padding:18px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+  margin-bottom:10px;
+}
+
+.thumb{ display:block; width:100%; height:100%; }
+.product-image{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  display:block;
+}
+
+/* Discount badge */
+.discount-tag{
+  position:absolute;
+  top:12px;
+  left:12px;
+  background:#DB4444;
+  color:#fff;
+  padding:4px 10px;
+  border-radius:4px;
+  font-size:12px;
+  font-weight:700;
+  z-index:2;
+}
+
+/* Icons top-right */
+.card-icons{
+  position:absolute;
+  top:10px;
+  right:10px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  z-index:2;
+}
+
+.card-icons .icon-btn{
+  width:34px;
+  height:34px;
+  border-radius:999px;
+  border:0;
+  background:#fff !important;
+  display:flex;
+  align-items:center;
+  padding:0;
+  justify-content:center;
+  cursor:pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+.icon-btn i{ font-size:14px; color:#111; }
+
+/* Add to cart bar (black) */
+.add-to-cart-btn{
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  height:46px;
+  border:0;
+  background:#111;
+  color:#fff;
+  font-size:14px;
+  font-weight:600;
+  cursor:pointer;
+  border-radius: 0 0 10px 10px;
+}
+
+/* Text */
+.product-title{
+  margin:0 0 6px 0;
+  font-size:14px;
+  font-weight:700;
+  color:#111;
+}
+
+.price-row{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.new-price{ color:#DB4444; font-weight:700; }
+.old-price{ color:#9A9A9A; text-decoration:line-through; font-weight:600; }
+
+.rating-and-reviews{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-top:8px;
+}
+.reviews{
+  font-size:12px;
+  color:#7A7A7A;
+  font-weight:600;
+}
+
+/* Stars fill */
+.stars{
+  --percent: 100%;
+  position:relative;
+  display:inline-block;
+  font-size:14px;
+  letter-spacing:1px;
+  line-height:1;
+}
+.stars::before{ content:"★★★★★"; color:#D8D8D8; }
+.stars::after{
+  content:"★★★★★";
+  color:#FFAD33;
+  position:absolute;
+  left:0; top:0;
+  width: var(--percent);
+  overflow:hidden;
+}
+
+/* View all button */
+.view-all-btn-wrapper{
+  display:flex;
+  justify-content:center;
+  margin-top: 18px;
+}
+
+.view-all-products-btn{
+  padding: 12px 44px;
+  border-radius: 4px;
+  border:0;
+  background:#DB4444;
+  color:#fff;
+  font-size:14px;
+  font-weight:600;
+}
+
+    .navigation-arrows .arrow-btn {
+        width: 40px;
+        height: 40px;
+        border-radius: 999px;
+        border: 0;
+        background: #F5F5F5 !important;
+        color: #111 !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .navigation-arrows .arrow-btn i {
+            color: #111 !important;
+        }
+
+        .navigation-arrows .arrow-btn:disabled {
+            background: #F5F5F5 !important;
+            opacity: 1 !important;
+            cursor: pointer;
+        }
+
+        .navigation-arrows .arrow-btn:focus,
+        .navigation-arrows .arrow-btn:active {
+            outline: none;
+            box-shadow: none;
+            background: #F5F5F5 !important;
+        }
+    /* Khối tiêu đề */
+    .section-divider {
+        border: 0;
+        height: 1px;
+        background: #000000;
+        
+        margin: 28px 0 0;
+    }
+
+</style>
+<script>
+    (function () {
+      const track = document.querySelector('.sales-track');
+      const btnPrev = document.querySelector('.prev-arrow');
+      const btnNext = document.querySelector('.next-arrow');
+
+      if (!track || !btnPrev || !btnNext) return;
+
+      function getStep() {
+        const card = track.querySelector('.product-card');
+        if (!card) return 300;
+
+        const cardStyles = window.getComputedStyle(card);
+        const trackStyles = window.getComputedStyle(track);
+
+        const cardWidth = card.getBoundingClientRect().width;
+        const gap = parseFloat(trackStyles.columnGap || trackStyles.gap || 0) || 0;
+
+        // step = 1 card + gap
+        return cardWidth + gap;
+      }
+
+      function scrollByStep(dir) {
+        const step = getStep();
+        track.scrollBy({ left: dir * step, behavior: 'smooth' });
+      }
+
+      btnPrev.addEventListener('click', () => scrollByStep(-1));
+      btnNext.addEventListener('click', () => scrollByStep(1));
+    })();
+</script>
+

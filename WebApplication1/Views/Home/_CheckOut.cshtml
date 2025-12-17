@@ -1,0 +1,122 @@
+﻿@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["HideHeaderIcons"] = true;
+}
+
+<div class="checkout-container">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="@Url.Action("Index", "Home")">Account</a> /
+        <a href="#">My Account</a> /
+        <a href="#">Product</a> /
+        <a href="@Url.Action("Cart","Home")">View Cart</a> /
+        <span>CheckOut</span>
+    </div>
+
+    <h3 class="checkout-title">Billing Details</h3>
+
+    <div class="checkout-content">
+
+        <!-- Billing Form -->
+        <form class="billing-form">
+            <label>First Name*</label>
+            <input type="text" />
+
+            <label>Company Name</label>
+            <input type="text" />
+
+            <label>Street Address*</label>
+            <input type="text" />
+
+            <label>Apartment, floor, etc. (optional)</label>
+            <input type="text" />
+
+            <label>Town/City*</label>
+            <input type="text" />
+
+            <label>Phone Number*</label>
+            <input type="text" />
+
+            <label>Email Address*</label>
+            <input type="email" />
+
+            <div class="save-info">
+                <input type="checkbox" checked />
+                Save this information for faster check-out next time
+            </div>
+        </form>
+
+        <!-- Order Summary -->
+        <div class="summary-box">
+            <div class="product-row">
+                <img src="/images/monitor.png" />
+                <span>LCD Monitor</span>
+                <p>$650</p>
+            </div>
+
+            <div class="product-row">
+                <img src="/images/g92.png" />
+                <span>Hi Gamepad</span>
+                <p>$1100</p>
+            </div>
+
+            <div class="summary-info">
+                <p><span>Subtotal:</span> <strong>$1750</strong></p>
+                <p><span>Shipping:</span> Free</p>
+                <p><span>Total:</span> <strong>$1750</strong></p>
+            </div>
+
+            <!-- Payment Method -->
+            <div class="payment-method">
+
+                <!-- Bank -->
+                <label class="radio-option">
+                    <div class="left-side">
+                        <input type="radio" name="payment" checked />
+                        <span class="radio-custom"></span>
+                        <span class="payment-title">Bank</span>
+                    </div>
+
+                    <div class="payment-logos">
+                        <img src="~/images/bKash.png" alt="bKash" />
+                        <img src="~/images/visa.png" alt="Visa" />
+                        <img src="~/images/mastercard.png" alt="MasterCard" />
+                        <img src="~/images/jcb.png" alt="JCB" />
+                    </div>
+                </label>
+
+                <!-- Cash on delivery -->
+                <label class="radio-option">
+                    <div class="left-side">
+                        <input type="radio" name="payment" />
+                        <span class="radio-custom"></span>
+                        <span class="payment-title">Cash on delivery</span>
+                    </div>
+
+                    <div class="payment-logos"></div>
+                </label>
+
+            </div>
+
+           
+
+
+
+            <!-- Coupon -->
+            <div class="coupon-line">
+                <input type="text" placeholder="Coupon Code" />
+                <button class="btn-red">Apply Coupon</button>
+            </div>
+
+            <!-- Button -->
+            <button class="btn-red full">Place Order</button>
+        </div>
+
+    </div>
+</div>
+@section BodyClass {
+    <script>
+        document.body.classList.add('page-signup');
+    </script>
+}

@@ -1,0 +1,110 @@
+﻿@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["HideHeaderIcons"] = true;
+}
+
+<div class="contact-page py-5">
+    <div class="container">
+
+        <!-- Breadcrumb -->
+        <div class="contact-breadcrumb mb-4">
+            <a href="@Url.Action("Index", "Home")">Home</a>
+            <span>/</span>
+            <span>Contact</span>
+        </div>
+
+        <div class="row g-4">
+            <!-- LEFT: INFO CARD -->
+            <div class="col-lg-4">
+                <div class="contact-info-card h-100">
+
+                    <!-- Call us -->
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="contact-icon-circle me-3">
+                            <i class="bi bi-telephone"></i>
+                        </div>
+                        <div>
+                            <div class="contact-info-title">Call To Us</div>
+                            <p class="contact-info-text mb-2">
+                                We are available 24/7, 7 days a week.
+                            </p>
+                            <p class="contact-info-text mb-0">
+                                Phone: +8801611112222
+                            </p>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    <!-- Write to us -->
+                    <div class="d-flex align-items-start mt-4">
+                        <div class="contact-icon-circle me-3">
+                            <i class="bi bi-envelope"></i>
+                        </div>
+                        <div>
+                            <div class="contact-info-title">Write To Us</div>
+                            <p class="contact-info-text mb-2">
+                                Fill out our form and we will contact you within 24 hours.
+                            </p>
+                            <p class="contact-info-text mb-0">
+                                Emails: customer@exclusive.com
+                            </p>
+                            <p class="contact-info-text mb-0">
+                                Emails: support@exclusive.com
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- RIGHT: FORM CARD -->
+            <div class="col-lg-8">
+                <div class="contact-form-card h-100">
+                    <form asp-action="Contact" method="post" class="contact-form">
+                        <div class="row g-3 mb-3">
+                            <div class="col-md-4">
+                                <input class="form-control contact-input"
+                                       type="text"
+                                       name="Name"
+                                       placeholder="Your Name *" />
+                            </div>
+                            <div class="col-md-4">
+                                <input class="form-control contact-input"
+                                       type="email"
+                                       name="Email"
+                                       placeholder="Your Email *" />
+                            </div>
+                            <div class="col-md-4">
+                                <input class="form-control contact-input"
+                                       type="text"
+                                       name="Phone"
+                                       placeholder="Your Phone *" />
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <textarea class="form-control contact-textarea"
+                                      name="Message"
+                                      rows="6"
+                                      placeholder="Your Message"></textarea>
+                        </div>
+
+                       <div class="text-end">
+                            <button type="submit" class="btn contact-submit-btn">
+                                Send Message
+                            </button>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section BodyClass {
+    <script>
+        document.body.classList.add('page-signup');
+    </script>
+}
